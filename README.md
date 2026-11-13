@@ -25,6 +25,6 @@ Derleme adımı yok. `index.html` dosyasını tarayıcıda açmak yeterli.
 
 ## Geliştiren
 
-Mert Yüksek: tasarım ve geliştirme.
+Mert Melih Yüksek: tasarım ve geliştirme.
 
 Site, yapay zeka asistanı Claude ile birlikte çalışılarak geliştirildi. Gereksinimleri belirleme, tasarım kararları, gerçek işletme bilgileriyle test etme ve yayına alma süreci bana aittir.
